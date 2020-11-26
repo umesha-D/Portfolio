@@ -1,15 +1,15 @@
 ---
-date: '3'
-title: 'Sinhalaunix'
-: './sinhalaunix.png'
-github: 'https://github.com/Shihara-Dilshan/Sinhala-English-Dictionary'
-
+date: '1'
+title: 'Public Covid-19 Rest API'
+github: 'https://github.com/Shihara-Dilshan/covid-19-webScrapper-with-flask-API'
+external: 'https://covid19datasl.herokuapp.com/'
 tech:
-  - Electron.js
-  - React.js
-  - Material-UI
-  - JSON
+  - Python
+  - Flask
+  - CSV
+  - WebScraping
+  - REST
 showInProjects: true
 ---
 
-Cross platform Sinhala English dictionary built with [React-Electron boiler-plate](https://github.com/electron-react-boilerplate/electron-react-boilerplate). It's fast, can be used as an altanative for MADHURA Sinhala English dictionary in linux based operating systems.
+Public rest API to get covid-19 real time data using a single CSV file. Everyday I populate the CSV file using a simple python script.
