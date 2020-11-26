@@ -1,6 +1,6 @@
 ---
 date: '2017-12-01'
-title: 'Jewelry shop, Delivery management'
+title: 'Jewellery shop Management System'
 github: 'https://github.com/Shihara-Dilshan/RW-Jewellery-Automated-System-React-SpringBoot'
 external: ''
 tech:
