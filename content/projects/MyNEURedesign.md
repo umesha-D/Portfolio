@@ -1,14 +1,14 @@
 ---
-date: '2017-04-03'
-title: 'myNEU Redesign'
-github: 'https://github.com/bchiang7/Redesign-myNEU'
-external: 'https://bchiang7.github.io/Redesign-myNEU/'
+date: '2019-11-12'
+title: 'Real Time Chat Application'
+github: 'https://github.com/Shihara-Dilshan/Messenger-clone-react-firebase'
+external: 'https://facebook-messenger-clone-87a5b.firebaseapp.com/'
 tech:
-  - Jekyll
-  - SCSS
-  - JS
+  - React
+  - Firebase
+  - MaterialCSS
 company: 'Northeastern'
-showInProjects: false
+showInProjects: true
 ---
 
-Student web portal prototype built after conducting multiple rounds of user testing that aimed to improve the current portal to provide students at Northeastern University with a better user experience.
+A simple messenger web application with react and firebase. All the components are class-based.

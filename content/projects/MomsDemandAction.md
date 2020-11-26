@@ -1,14 +1,14 @@
 ---
 date: '2019-11-12'
-title: 'Moms Demand Action Mobile App'
-github: ''
-external: 'https://www.upstatement.com/work/moms-demand-action/'
-ios: 'https://apps.apple.com/us/app/demand-action/id1475502876'
-android: 'https://play.google.com/store/apps/details?id=com.momsdemandaction.app'
+title: 'Real Time Chat Application'
+github: 'https://github.com/Shihara-Dilshan/Messenger-clone-react-firebase'
+external: 'https://facebook-messenger-clone-87a5b.firebaseapp.com/'
+ios: ''
+android: ''
 tech:
-  - NativeScript Vue
-  - iOS
-  - Android
+  - React
+  - Firebase
+  - MaterialCSS
 company: 'Upstatement'
 showInProjects: false
 ---
