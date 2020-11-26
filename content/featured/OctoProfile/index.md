@@ -1,14 +1,15 @@
 ---
 date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'Sinhalaunix'
+cover: './sinhalaunix.png'
+github: 'https://github.com/Shihara-Dilshan/Sinhala-English-Dictionary'
+
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Electron.js
+  - React.js
+  - Material-UI
+  - JSON
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
+Cross platform Sinhala English dictionary built with [React-Electron boiler-plate](https://github.com/electron-react-boilerplate/electron-react-boilerplate). It's fast, can be used as an altanative for MADHURA Sinhala English dictionary in linux based operating systems.

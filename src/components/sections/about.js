@@ -137,6 +137,8 @@ const About = () => {
     'HTML & CSS',
     'React',
     'Vue',
+    'ExpressJS',
+    'Shell-Scripting',
     'React-Native',
     'Android-Studio',
     'Node.js',
@@ -156,18 +158,15 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Shihara Dilshan, a student, self learner, web/mobile app developer.</p>
-
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              Hello! I'm Shihara Dilshan, a student, self learner, web/mobile app developer. Also I
+              build things for computers as well.
             </p>
 
             <p>
-              I am currently studying at <a href="https://www.sliit.lk/">SLIIT</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              I am currently studying Information technology at{' '}
+              <a href="https://www.sliit.lk/">SLIIT</a>. I've been developing web/mobile and desktop
+              applications mostly using JavaScript.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

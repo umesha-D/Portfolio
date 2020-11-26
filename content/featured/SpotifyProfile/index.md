@@ -1,15 +1,17 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'NoobStack'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://noobstack.netlify.app/'
 tech:
   - React
   - Node.js
+  - JWT
   - Express
-  - Spotify Web API
+  - MongoDB
+  - ContextAPI
+
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+NoobStack is an education platform built using MERN stack, which users can post their questions, give answers to other people's questions, watch tutorials, become a noobstack member. Also I will be posting my own videos here.
