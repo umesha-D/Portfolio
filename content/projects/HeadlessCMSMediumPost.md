@@ -1,7 +1,6 @@
 ---
 date: '2'
 title: 'NoobStack'
-cover: './demo.png'
 external: 'https://noobstack.netlify.app/'
 tech:
   - React

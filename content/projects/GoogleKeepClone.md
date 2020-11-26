@@ -1,7 +1,6 @@
 ---
 date: '1'
 title: 'Public Covid-19 Rest API'
-cover: './demo.png'
 github: 'https://github.com/Shihara-Dilshan/covid-19-webScrapper-with-flask-API'
 external: 'https://covid19datasl.herokuapp.com/'
 tech:
