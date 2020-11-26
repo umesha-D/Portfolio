@@ -186,7 +186,7 @@ const Nav = ({ isHome }) => {
                 ))}
             </TransitionGroup>
           </ol>
-          {/*}
+
           <TransitionGroup component={null}>
             {isMounted && (
               <CSSTransition classNames={fadeDownClass} timeout={timeout}>
@@ -198,7 +198,6 @@ const Nav = ({ isHome }) => {
               </CSSTransition>
             )}
           </TransitionGroup>
-          {*/}
         </StyledLinks>
 
         <TransitionGroup component={null}>
