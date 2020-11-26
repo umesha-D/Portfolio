@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Sinhalaunix'
-cover: './sinhalaunix.png'
+: './sinhalaunix.png'
 github: 'https://github.com/Shihara-Dilshan/Sinhala-English-Dictionary'
 
 tech:
