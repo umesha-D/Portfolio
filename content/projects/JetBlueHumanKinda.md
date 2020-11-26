@@ -1,15 +1,15 @@
 ---
 date: '2015-10-01'
-title: 'JetBlue HumanKinda'
-github: ''
-external: 'https://us.mullenlowe.com/work/humankinda/'
+title: 'Hotellustio-php-mySQL'
+github: 'https://github.com/Shihara-Dilshan/Hotellustio-php-mySQL'
+external: ''
 tech:
-  - Tumblr
+  - PHP
   - HTML
   - CSS
-  - JS
+  - MYSQL
 company: 'MullenLowe'
-showInProjects: false
+showInProjects: true
 ---
 
-Tumblr site complementing JetBlue's HumanKinda campaign and documentary. Includes an interactive quiz to determine how "HumanKinda" you are. Learn more about this project [here](https://us.mullenlowe.com/work/humankinda/).
+A simple Hotel Reservation System with PHP and MySQL

@@ -1,14 +1,13 @@
 ---
 date: '2017-11-01'
-title: 'Apple Music Facebook Messenger Integration'
-github: ''
-external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
+title: 'Covid-19-TrackerApp-Vue.js'
+github: 'https://github.com/Shihara-Dilshan/Covid-19-TrackerApp-Vue.js'
+external: 'https://covid19trackervue.netlify.app'
 tech:
-  - Ember
-  - JS
-  - SCSS
-company: 'Apple'
+  - Vue
+  - JavaScript
+  - HTML/CSS
 showInProjects: true
 ---
 
-Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).
+A simple Vue.js app to track COVID-19 using [disease.sh](https://disease.sh/). - An open API for disease-related statistics.

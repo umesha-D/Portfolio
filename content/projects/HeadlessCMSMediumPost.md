@@ -1,15 +1,17 @@
 ---
-date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+date: '2'
+title: 'NoobStack'
+cover: './demo.png'
+external: 'https://noobstack.netlify.app/'
 tech:
-  - Node
+  - React
+  - Node.js
+  - JWT
   - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - MongoDB
+  - ContextAPI
+
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+NoobStack is an education platform built using MERN stack, which users can post their questions, give answers to other people's questions, watch tutorials, become a noobstack member. Also I will be posting my own videos here.

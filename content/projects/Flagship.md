@@ -1,13 +1,13 @@
 ---
 date: '2018-10-01'
-title: 'Flagship Pioneering'
-github: ''
-external: 'https://www.flagshippioneering.com/'
+title: 'Dev-Server'
+github: 'https://github.com/Shihara-Dilshan/Dev-Server'
+external: ''
 tech:
-  - Craft CMS
-  - Chart.js
+  - NPM
+  - HTML/CSS
 company: 'Upstatement'
-showInProjects: false
+showInProjects: true
 ---
 
-A marketing site for an ambitious life sciences venture capital company.
+A Development server for both Browser and Node Environments with nodemon and live-server.

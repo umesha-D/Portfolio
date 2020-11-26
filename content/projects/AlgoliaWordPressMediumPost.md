@@ -1,14 +1,14 @@
 ---
 date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+title: 'BringMeLK-Android-FireBase'
+github: 'https://github.com/Shihara-Dilshan/BringMeLK-Android-FireBase'
+external: ''
 tech:
-  - Algolia
-  - WordPress
-  - PHP
+  - Android
+  - Java
+  - Firebase
 company: 'Upstatement'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+A food ordering and delivering android app developed with Java and Firebase

@@ -1,12 +1,13 @@
 ---
 date: '2016-01-01'
-title: 'Fontipsums'
-github: 'https://github.com/bchiang7/fontipsums/'
-external: 'http://bchiang7.github.io/fontipsums/'
+title: 'Todo App'
+github: 'https://github.com/Shihara-Dilshan/Todo-App-React-SpringBoot'
+external: ''
 tech:
-  - HTML
-  - SCSS
+  - Spring Boot
+  - React
+  - PostgreSQL
 showInProjects: true
 ---
 
-Simple website to display some of my favorite font pairings combined with some fun lorem ipsum variations found on the web.
+A simple full-stack Todo web App builds with react and spring boot.

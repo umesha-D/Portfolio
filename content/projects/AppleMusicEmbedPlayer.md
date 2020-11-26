@@ -1,14 +1,16 @@
 ---
 date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
-github: ''
-external: 'https://tools.applemusic.com/en-us'
+title: 'Jewelry shop, Delivery management'
+github: 'https://github.com/Shihara-Dilshan/RW-Jewellery-Automated-System-React-SpringBoot'
+external: ''
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
+  - SpringBoot
+  - React
+  - Firebase
+  - PostgreSQL
+  - Hibernate
 company: 'Apple'
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+An automated system for RW-Jewelry. Including an online jewelry shop, Delivery management, Employee leave management etc.

@@ -106,7 +106,10 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/bchiang7/v4">
-          <div>Designed &amp; Built by Brittany Chiang</div>
+          <div>
+            My Name is Shihara-Dilshan. <br /> Contents of this page belongs to Brittany Chiang.
+            <br /> A massive respect for her original work.
+          </div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">

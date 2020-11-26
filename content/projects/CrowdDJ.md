@@ -1,14 +1,14 @@
 ---
 date: '2017-03-01'
-title: 'Crowd DJ'
-github: 'https://github.com/crowddj/crowddj-react'
-external: ''
+title: 'Covid-19-TrackerApp-React'
+github: 'https://github.com/Shihara-Dilshan/Covid-19-TrackerApp-React-Chart.js'
+external: 'https://covid19trackerreact.netlify.app//'
 tech:
   - React
-  - Firebase
-  - Spotify API
+  - Chart.js
+  - JavaScript
 company: HackBeanpot 2017
-showInProjects: false
+showInProjects: true
 ---
 
-Web app that allows people to crowdsource a party's music queue. Allows people to request songs, upvote songs, rate songs, etc. so the DJ can see how the crowd is feeling and queue songs accordingly. Won Best UI/UX Design at Hackbeanpot 2017.
+A simple react app to track COVID-19 using [disease.sh](https://corona.lmao.ninja/) - An open API for disease-related statistics.

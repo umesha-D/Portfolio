@@ -1,14 +1,14 @@
 ---
 date: '2018-12-01'
-title: 'Devoted Health'
-github: ''
-external: 'https://www.devoted.com/'
+title: 'EmailValidator'
+github: 'https://github.com/Shihara-Dilshan/EmailValidator-Vue.js-BootstrapVue'
+external: ''
 tech:
-  - Gatsby
-  - TypeScript
-  - Algolia
+  - Vue
+  - zerobounce API
+  - Vue-Boostrap
 company: 'Upstatement'
-showInProjects: false
+showInProjects: true
 ---
 
-A site for a revolutionary healthcare company, including an Algolia instant search integration
+A simple Vue.js app for validating emails using zerobounce

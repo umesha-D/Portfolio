@@ -1,12 +1,16 @@
 ---
-date: '2018-12-29'
-title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+date: '1'
+title: 'Public Covid-19 Rest API'
+cover: './demo.png'
+github: 'https://github.com/Shihara-Dilshan/covid-19-webScrapper-with-flask-API'
+external: 'https://covid19datasl.herokuapp.com/'
 tech:
-  - Vue
-  - Firebase
+  - Python
+  - Flask
+  - CSV
+  - WebScraping
+  - REST
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+Public rest API to get covid-19 real time data using a single CSV file. Everyday I populate the CSV file using a simple python script.

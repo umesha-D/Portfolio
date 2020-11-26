@@ -1,15 +1,15 @@
 ---
-date: '2017-12-27'
-title: 'Halcyon Theme'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+date: '3'
+title: 'Sinhalaunix'
+cover: './sinhalaunix.png'
+github: 'https://github.com/Shihara-Dilshan/Sinhala-English-Dictionary'
+
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
-showInProjects: false
+  - Electron.js
+  - React.js
+  - Material-UI
+  - JSON
+showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Cross platform Sinhala English dictionary built with [React-Electron boiler-plate](https://github.com/electron-react-boilerplate/electron-react-boilerplate). It's fast, can be used as an altanative for MADHURA Sinhala English dictionary in linux based operating systems.

@@ -1,15 +1,16 @@
 ---
 date: '2017-06-22'
-title: 'Lonely Planet DBMS'
-github: 'https://github.com/bchiang7/CS3200-Project'
+title: 'RW-Jewellery-RestfullAPI-flask-SQLAlchemy'
+github: 'https://github.com/Shihara-Dilshan/RW-Jewellery-RestfullAPI-flask-SQLAlchemy'
 external: ''
 tech:
   - Python
-  - MySQL
   - Flask
-  - JS
+  - SQLAlchemy
+  - sqlite3
+  - Marshmallow
 company: 'Northeastern'
-showInProjects: false
+showInProjects: true
 ---
 
-A simple web application that allows users to filter through and leave reviews in a database of Lonely Planet's Top 500 Travel Destinations.
+Full crud REST API with flask and SQLITE.

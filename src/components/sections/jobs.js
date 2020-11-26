@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
-import { CSSTransition } from 'react-transition-group';
+//import { CSSTransition } from 'react-transition-group';
 import styled from 'styled-components';
 import { srConfig } from '@config';
 import { KEY_CODES } from '@utils';
@@ -18,7 +18,7 @@ const StyledJobsSection = styled.section`
   }
 `;
 
-const StyledTabList = styled.ul`
+styled.ul`
   position: relative;
   z-index: 3;
   width: max-content;
@@ -58,7 +58,7 @@ const StyledTabList = styled.ul`
   }
 `;
 
-const StyledTabButton = styled.button`
+styled.button`
   ${({ theme }) => theme.mixins.link};
   display: flex;
   align-items: center;
@@ -91,7 +91,7 @@ const StyledTabButton = styled.button`
   }
 `;
 
-const StyledHighlight = styled.div`
+styled.div`
   position: absolute;
   top: 0;
   left: 0;
@@ -118,7 +118,7 @@ const StyledHighlight = styled.div`
   }
 `;
 
-const StyledTabContent = styled.div`
+styled.div`
   width: 100%;
   height: auto;
   padding-top: 10px;
@@ -176,9 +176,8 @@ const Jobs = () => {
     }
   `);
 
-  const jobsData = data.jobs.edges;
+  data.jobs.edges;
 
-  const [activeTabId, setActiveTabId] = useState(0);
   const [tabFocus, setTabFocus] = useState(null);
   const tabs = useRef([]);
 
@@ -204,6 +203,7 @@ const Jobs = () => {
   useEffect(() => focusTab(), [tabFocus]);
 
   // Focus on tabs when using up & down arrow keys
+  // eslint-disable-next-line
   const onKeyDown = e => {
     if (e.key === KEY_CODES.ARROW_UP || e.key === KEY_CODES.ARROW_DOWN) {
       e.preventDefault();
@@ -220,6 +220,7 @@ const Jobs = () => {
 
   return (
     <StyledJobsSection id="jobs" ref={revealContainer}>
+      {/*}
       <h2 className="numbered-heading">Where I’ve Worked</h2>
 
       <div className="inner">
@@ -278,6 +279,7 @@ const Jobs = () => {
             );
           })}
       </div>
+         {*/}
     </StyledJobsSection>
   );
 };

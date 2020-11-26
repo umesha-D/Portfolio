@@ -51,7 +51,10 @@ const Hero = () => {
   const two = <h2 className="big-heading">Shihara Dilshan.</h2>;
   const three = <h3 className="big-heading">I build things for the Web/Mobile and Desktop.</h3>;
   const four = (
-    <p>I'm a software developer based in Kandy, Sri Lanka. I learned a lot by doing things.</p>
+    <p>
+      I'm a student and a software developer based in Kandy, Sri Lanka. I learned a lot by doing
+      things.
+    </p>
   );
   const five = (
     <a href={`mailto:${email}`} className="email-link">

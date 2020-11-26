@@ -11,16 +11,8 @@ module.exports = {
       url: 'https://www.linkedin.com/in/shihara-dilshan-5297711a4/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
-    {
       name: 'Instagram',
       url: 'https://www.instagram.com/shihara_dil/',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
     },
   ],
 

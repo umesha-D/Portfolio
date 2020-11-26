@@ -1,16 +1,16 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Public Covid-19 Rest API'
+cover: './demo.png'
+github: 'https://github.com/Shihara-Dilshan/covid-19-webScrapper-with-flask-API'
+external: 'https://covid19datasl.herokuapp.com/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Python
+  - Flask
+  - CSV
+  - WebScraping
+  - REST
 showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Public rest API to get covid-19 real time data using a single CSV file. Everyday I populate the CSV file using a simple python script.
