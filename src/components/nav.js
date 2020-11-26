@@ -190,11 +190,7 @@ const Nav = ({ isHome }) => {
           <TransitionGroup component={null}>
             {isMounted && (
               <CSSTransition classNames={fadeDownClass} timeout={timeout}>
-                <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}>
-                  <a href="/resume.pdf" className="resume-button">
-                    Resume
-                  </a>
-                </div>
+                <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}></div>
               </CSSTransition>
             )}
           </TransitionGroup>
