@@ -2,7 +2,7 @@
 date: '2017-12-01'
 title: 'Jewellery shop Management System'
 github: 'https://github.com/Shihara-Dilshan/RW-Jewellery-Automated-System-React-SpringBoot'
-external: ''
+external: 'https://cranky-jackson-41d22a.netlify.app/signup'
 tech:
   - SpringBoot
   - React
