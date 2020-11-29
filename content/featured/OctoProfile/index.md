@@ -2,7 +2,8 @@
 date: '3'
 title: 'Sinhalaunix'
 cover: './sinhalaunix.png'
-github: 'https://github.com/Shihara-Dilshan/Sinhala-English-Dictionary'
+github: ''
+external: 'https://drive.google.com/file/d/10tXLvor17u6lno14I0GqWi36N_Hyq1FR/view'
 
 tech:
   - Electron.js

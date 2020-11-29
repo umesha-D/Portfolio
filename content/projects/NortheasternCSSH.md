@@ -1,15 +1,15 @@
 ---
 date: '2020-07-16'
-title: 'Northeastern CSSH'
+title: 'Sinhalaunix'
 github: ''
-external: 'https://cssh.northeastern.edu/'
+external: 'https://drive.google.com/file/d/10tXLvor17u6lno14I0GqWi36N_Hyq1FR/view'
+
 tech:
-  - WordPress
-  - Timber
-  - WordPress Multisite
-  - PHP
-  - Algolia
-  - JS
-company: 'Upstatement'
-showInProjects: false
+  - Electron.js
+  - React.js
+  - Material-UI
+  - JSON
+showInProjects: true
 ---
+
+Cross platform Sinhala English dictionary built with [React-Electron boiler-plate](https://github.com/electron-react-boilerplate/electron-react-boilerplate). It's fast, can be used as an altanative for MADHURA Sinhala English dictionary in linux based operating systems.
