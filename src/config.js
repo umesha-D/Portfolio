@@ -1,18 +1,18 @@
 module.exports = {
-  email: 'shiharadotadilshanid@gmail.com',
+  email: 'it19066844@my.sliit.lk',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/Shihara-Dilshan',
+      url: 'https://github.com/umesha-D/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/shihara-dilshan-5297711a4/',
+      url: 'https://www.linkedin.com/in/umesha-ramanayake-715a841b8/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/shihara_dil/',
+      url: 'https://www.instagram.com/umesharamanayake/',
     },
   ],
 
