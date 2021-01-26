@@ -9,7 +9,7 @@ tech:
   - CSV
   - WebScraping
   - REST
-showInProjects: true
+showInProjects: false
 ---
 
 Public rest API to get covid-19 real time data using a single CSV file. Everyday I populate the CSV file using a simple python script.

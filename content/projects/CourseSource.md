@@ -8,7 +8,7 @@ tech:
   - TyprScript
   - Chart.js
 company: 'Northeastern'
-showInProjects: true
+showInProjects: false
 ---
 
 A simple angular app to track COVID-19 using disease.sh - An open API for disease-related statistics.

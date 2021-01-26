@@ -9,7 +9,7 @@ tech:
   - React.js
   - Material-UI
   - JSON
-showInProjects: true
+showInProjects: false
 ---
 
 Cross platform Sinhala English dictionary built with [React-Electron boiler-plate](https://github.com/electron-react-boilerplate/electron-react-boilerplate). It's fast, can be used as an altanative for MADHURA Sinhala English dictionary in linux based operating systems.

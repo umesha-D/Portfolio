@@ -1,16 +1,16 @@
 ---
 date: '1'
-title: 'DilTerm - Terminal simulator for linux'
+title: 'SpaceInvader'
 cover: './demo.png'
-github: 'https://github.com/Shihara-Dilshan/DilTerm'
+github: 'https://github.com/umesha-D/SpaceInvader'
 external: ''
 tech:
-  - Typescript
-  - Nodejs
-  - Shell-Script
-  - React
-  - Electron
+  - Python
+  - pygame
+  - pip
+  - pycharm
+  - 2D
 showInProjects: true
 ---
 
-Linux Terminal simulator built with TypeScript, React, shell scripting and Node child-process.
+A simple shooting game built using famous python3 pygame module.

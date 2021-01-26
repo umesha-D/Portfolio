@@ -8,7 +8,7 @@ tech:
   - Shell-Script
   - Node/Express
 company: 'Scout'
-showInProjects: true
+showInProjects: false
 ---
 
 simple desktop GUI application for my linux operating system using ElectronJS and Shell Scripting combination with Node/Express server. In this application I can simply control database Servers, control the swap memory, analyze ports to get the process IDs and also kill a specific process from a respective port.

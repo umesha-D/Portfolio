@@ -7,7 +7,7 @@ tech:
   - Spring Boot
   - React
   - PostgreSQL
-showInProjects: true
+showInProjects: false
 ---
 
 A simple full-stack Todo web App builds with react and spring boot.

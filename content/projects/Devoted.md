@@ -8,7 +8,7 @@ tech:
   - zerobounce API
   - Vue-Boostrap
 company: 'Upstatement'
-showInProjects: true
+showInProjects: false
 ---
 
 A simple Vue.js app for validating emails using zerobounce

@@ -8,7 +8,7 @@ tech:
   - Chart.js
   - JavaScript
 company: HackBeanpot 2017
-showInProjects: true
+showInProjects: false
 ---
 
 A simple react app to track COVID-19 using [disease.sh](https://corona.lmao.ninja/) - An open API for disease-related statistics.

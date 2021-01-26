@@ -1,17 +1,16 @@
 ---
 date: '2'
-title: 'NoobStack'
+title: 'BringMeLK-Android-FireBase'
 cover: './demo.png'
-external: 'https://noobstack.netlify.app/'
+github: 'https://github.com/Shihara-Dilshan/BringMeLK-Android-FireBase'
+external: ''
 tech:
-  - React
-  - Node.js
-  - JWT
-  - Express
-  - MongoDB
-  - ContextAPI
+  - Android
+  - Java
+  - FireBase
+  - Android studio
 
 showInProjects: true
 ---
 
-NoobStack is an education platform built using MERN stack, which users can post their questions, give answers to other people's questions, watch tutorials, become a noobstack member. Also I will be posting my own videos here.
+A food ordering and delivering android app developed with Java and Firebase

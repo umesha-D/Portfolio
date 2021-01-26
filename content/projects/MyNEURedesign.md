@@ -8,7 +8,7 @@ tech:
   - Firebase
   - MaterialCSS
 company: 'Northeastern'
-showInProjects: true
+showInProjects: false
 ---
 
 A simple messenger web application with react and firebase. All the components are class-based.

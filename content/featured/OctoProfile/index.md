@@ -1,16 +1,19 @@
 ---
 date: '3'
-title: 'Sinhalaunix'
-cover: './sinhalaunix.png'
-github: ''
-external: 'https://drive.google.com/file/d/10tXLvor17u6lno14I0GqWi36N_Hyq1FR/view'
+title: 'RW-Jewellery-Automated-System'
+cover: './Sinhalaunix.png'
+github: 'https://github.com/umesha-D/RW-Jewellery-Automated-System-React-SpringBoot'
+external: ''
 
 tech:
-  - Electron.js
+  - javaScript
   - React.js
-  - Material-UI
-  - JSON
+  - Java
+  - Firebase
+  - Spring Boot
+  - Rest Api
+  - Postgres
 showInProjects: true
 ---
 
-Cross platform Sinhala English dictionary built with [React-Electron boiler-plate](https://github.com/electron-react-boilerplate/electron-react-boilerplate). It's fast, can be used as an altanative for MADHURA Sinhala English dictionary in linux based operating systems.
+An automated system for RW-Jewelry. Including an online jewelry shop, Delivery management, Employee leave management etc..

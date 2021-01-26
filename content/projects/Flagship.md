@@ -7,7 +7,7 @@ tech:
   - NPM
   - HTML/CSS
 company: 'Upstatement'
-showInProjects: true
+showInProjects: false
 ---
 
 A Development server for both Browser and Node Environments with nodemon and live-server.

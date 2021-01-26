@@ -9,7 +9,7 @@ tech:
   - CSS
   - MYSQL
 company: 'MullenLowe'
-showInProjects: true
+showInProjects: false
 ---
 
 A simple Hotel Reservation System with PHP and MySQL

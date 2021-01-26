@@ -133,22 +133,14 @@ const About = () => {
   }, []);
 
   const skills = [
-    'JavaScript (ES6+)',
+    'Python',
     'HTML & CSS',
     'React',
-    'Vue',
-    'ExpressJS',
-    'Shell-Scripting',
-    'React-Native',
+    'Pygame',
+    'KTinker',
+    'Android',
     'Android-Studio',
-    'Node.js',
-    'TypeScript',
-    'ElectronJS',
     'Java',
-    'Angular',
-    'Spring Boot',
-    'Python',
-    'Flask',
   ];
 
   return (
@@ -159,14 +151,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Shihara Dilshan, a student, self learner, web/mobile app developer. Also I
-              build things for computers as well.
+              Hello! I'm Umesha Ramanayaka, I am a talented, ambitious and hardworking individual,
+              with broad skills and experience in digital and printed marketing, social media and
+              leading projects.
             </p>
 
             <p>
               I am currently studying Information technology at{' '}
-              <a href="https://www.sliit.lk/">SLIIT</a>. I've been developing web/mobile and desktop
-              applications mostly using JavaScript.
+              <a href="https://www.sliit.lk/">SLIIT</a>. I've been developing web and desktop games
+              mostly using JavaScript and python.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

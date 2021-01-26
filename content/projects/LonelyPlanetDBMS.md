@@ -10,7 +10,7 @@ tech:
   - sqlite3
   - Marshmallow
 company: 'Northeastern'
-showInProjects: true
+showInProjects: false
 ---
 
 Full crud REST API with flask and SQLITE.
